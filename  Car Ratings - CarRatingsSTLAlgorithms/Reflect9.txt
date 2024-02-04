@@ -1,0 +1,11 @@
+1. Do you find lambda functions useful? Why or why not?
+Answers: Lambda functions are very useful because they help us to write in-place functions which means right there where it is passed or invoked and it helps to enhance the functionality of c++. 
+2. Where are lambda functions best utilized?
+Answers: lambda functions are best utilized when the function need to be used just once and which takes more argument.
+3. What are the three components of the Standard Template Library?
+Answer: Three components of the Standard Template Library are:
+1. CONTAINERS - OBJECT WHICH STORES DATA.
+2. ALGORITHMS - PROCEDURE TO  PROCESS DATA.   
+3. ITERATORS - OBJECT WHICH POINTS  TO AN ELEMENT OF A CONTAINER.   
+                
+                
